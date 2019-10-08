@@ -38,8 +38,7 @@ public class Carta {
 
 	
 	@Override
-	public String toString() {
-		
+	public String toString() {		
 		return " Ordem = " + ordem + ", Valor = " + valor + ", Naipe = " + naipe.getDescri() + "\n";
 	}
 	
